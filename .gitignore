@@ -1,2 +1,6 @@
-obj/
 bin/
+obj/
+.vs/
+x64/
+Sana03/bin/
+LinearExpressions1/obj/
